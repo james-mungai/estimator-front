@@ -1,5 +1,5 @@
 .form-container {
-    width: 90%;
+
     margin:auto;
     form{
         padding: 1rem;
@@ -7,5 +7,18 @@
     .form-button {
         display: flex;
         justify-content: center;
+    }
+    .form-select{
+        width: 100%;
+        padding: 0.5rem;
+        border: none;
+        border-bottom: 1px solid black;
+        outline: none;
+        background-color: white;
+    }
+    .select-label{
+        padding-bottom: 10px;
+        padding-left: 5px;
+        font-size: 16px;
     }
 }

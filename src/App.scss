@@ -2,25 +2,18 @@
     box-sizing: border-box;
 }
 .App {
-    width: 30%;
+    width: 50%;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    justify-content: space-evenly;
-    MaterialForm{
-      width: 40%;
-    }
-    .form{
-      padding: 1rem;
-      width: 40%;
-    }
+    
+   
     
   }
   
   /* On screens that are 992px or less, set the background color to blue */
   @media screen and (max-width: 992px) {
     .App {
-        width: 50%;
+        width: 60%;
         margin: auto;
       }
   }
@@ -28,7 +21,7 @@
   /* On screens that are 600px or less, set the background color to olive */
   @media screen and (max-width: 600px) {
     .App {
-      width: 80%;
+      width: 90%;
       margin: auto;
     }
   }
