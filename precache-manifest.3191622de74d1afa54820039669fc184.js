@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ed2849acd3d84d2de49825a93126e50",
+    "revision": "b0d2192630f250fea6b7157bd05c3da2",
     "url": "/estimator-front/index.html"
   },
   {
-    "revision": "97b729bb8ec5de087f9d",
+    "revision": "61e949d7cc08e89ee705",
     "url": "/estimator-front/static/css/main.edbbafa1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/estimator-front/static/js/2.42ae0c95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97b729bb8ec5de087f9d",
-    "url": "/estimator-front/static/js/main.cee57381.chunk.js"
+    "revision": "61e949d7cc08e89ee705",
+    "url": "/estimator-front/static/js/main.5815d3a0.chunk.js"
   },
   {
     "revision": "5b6b48e2df3f8fa1e4a6",
