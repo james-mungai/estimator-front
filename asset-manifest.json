@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/estimator-front/static/css/main.edbbafa1.chunk.css",
-    "main.js": "/estimator-front/static/js/main.5815d3a0.chunk.js",
-    "main.js.map": "/estimator-front/static/js/main.5815d3a0.chunk.js.map",
+    "main.js": "/estimator-front/static/js/main.d1841869.chunk.js",
+    "main.js.map": "/estimator-front/static/js/main.d1841869.chunk.js.map",
     "runtime-main.js": "/estimator-front/static/js/runtime-main.38138b9e.js",
     "runtime-main.js.map": "/estimator-front/static/js/runtime-main.38138b9e.js.map",
     "static/js/2.42ae0c95.chunk.js": "/estimator-front/static/js/2.42ae0c95.chunk.js",
     "static/js/2.42ae0c95.chunk.js.map": "/estimator-front/static/js/2.42ae0c95.chunk.js.map",
     "index.html": "/estimator-front/index.html",
-    "precache-manifest.3191622de74d1afa54820039669fc184.js": "/estimator-front/precache-manifest.3191622de74d1afa54820039669fc184.js",
+    "precache-manifest.c1c3b6058bb9c3fb3f3465e65784eafb.js": "/estimator-front/precache-manifest.c1c3b6058bb9c3fb3f3465e65784eafb.js",
     "service-worker.js": "/estimator-front/service-worker.js",
     "static/css/main.edbbafa1.chunk.css.map": "/estimator-front/static/css/main.edbbafa1.chunk.css.map",
     "static/js/2.42ae0c95.chunk.js.LICENSE.txt": "/estimator-front/static/js/2.42ae0c95.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.38138b9e.js",
     "static/js/2.42ae0c95.chunk.js",
     "static/css/main.edbbafa1.chunk.css",
-    "static/js/main.5815d3a0.chunk.js"
+    "static/js/main.d1841869.chunk.js"
   ]
 }
